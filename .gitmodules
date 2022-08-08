@@ -1,4 +1,3 @@
-[submodule "CS20B034"]
-	path = CS20B034
+[submodule "SE22"]
+	path = SE22
 	url = https://github.com/SachinSahu431/SE22.git
-
