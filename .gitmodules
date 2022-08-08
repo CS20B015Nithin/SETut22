@@ -14,3 +14,6 @@
 [submodule "SEtut1"]
 	path = SEtut1
 	url = https://github.com/Ganesh-P03/SEtut1.git
+[submodule "CS20B051_SEGitTut"]
+	path = CS20B051_SEGitTut
+	url = https://github.com/Bharadwaj1720/CS20B051_SEGitTut
