@@ -26,6 +26,11 @@
 [submodule "SEtut1"]
 	path = SEtut1
 	url = https://github.com/Ganesh-P03/SEtut1.git
+
+[submodule "new-rep"]
+	path = new-rep
+	url = https://github.com/niheeth03/new-rep.git
+
 [submodule "CS20B044_GitTut"]
 	path = CS20B044_GitTut
 	url = https://github.com/Chakradhar4447/CS20B044_GitTut.git
