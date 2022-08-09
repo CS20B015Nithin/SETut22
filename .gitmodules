@@ -1,3 +1,7 @@
+[submodule "SE22"]
+	path = SE22
+	url = https://github.com/SachinSahu431/SE22.git
+
 [submodule "submodule"]
 	path = submodule
 	url = ./submodule
