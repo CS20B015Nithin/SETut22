@@ -23,3 +23,6 @@
 [submodule "SEtut1"]
 	path = SEtut1
 	url = https://github.com/Ganesh-P03/SEtut1.git
+[submodule "CS20B010"]
+	path = CS20B010
+	url = https://github.com/GroshanCS10/CS20B010
