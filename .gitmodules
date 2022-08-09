@@ -31,6 +31,10 @@
 	path = SEtut1
 	url = https://github.com/Ganesh-P03/SEtut1.git
 
+[submodule "SeTut"]
+	path = SeTut
+	url = https://github.com/SidhantHanwate/SeTut.git
+
 [submodule "se_tut1"]
 	path = se_tut1
 	url = https://github.com/SaranyaKancharla/se_tut1.git
