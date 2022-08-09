@@ -1,3 +1,6 @@
+[submodule "submodule"]
+	path = submodule
+	url = ./submodule
 [submodule "CS20B034"]
 	path = CS20B034
 	url = https://github.com/SachinSahu431/SE22.git
