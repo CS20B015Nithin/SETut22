@@ -1,3 +1,48 @@
 [submodule "SE22"]
 	path = SE22
 	url = https://github.com/SachinSahu431/SE22.git
+
+[submodule "submodule"]
+	path = submodule
+	url = ./submodule
+[submodule "CS20B034"]
+	path = CS20B034
+	url = https://github.com/SachinSahu431/SE22.git
+
+
+[submodule "CS20B040-GitTut"]
+	path = CS20B040-GitTut
+	url = https://github.com/S1ddh4rthaG/CS20B040-GitTut.git
+
+[submodule "GitTutorial"]
+	path = GitTutorial
+	url = https://github.com/PreethiVarshaM/GitTutorial.git
+
+
+[submodule "Git_Tut"]
+	path = Git_Tut
+	url = https://github.com/GNamithaReddy/Git_Tut
+
+[submodule "SE-Tutorial"]
+	path = SE-Tutorial
+	url = https://github.com/LellaHemasriSai/SE-Tutorial
+
+[submodule "SEtut1"]
+	path = SEtut1
+	url = https://github.com/Ganesh-P03/SEtut1.git
+
+[submodule "new-rep"]
+	path = new-rep
+	url = https://github.com/niheeth03/new-rep.git
+
+[submodule "CS20B044_GitTut"]
+	path = CS20B044_GitTut
+	url = https://github.com/Chakradhar4447/CS20B044_GitTut.git
+
+
+[submodule "CS20B014_SE"]
+	path = CS20B014_SE
+	url = https://github.com/hiranmai19/CS20B014_SE.git
+[submodule "CS20B010"]
+	path = CS20B010
+	url = https://github.com/GroshanCS10/CS20B010
